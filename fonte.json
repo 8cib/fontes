@@ -1,4 +1,7 @@
 {
-  "name": "fonteSF",
-  "url": "https://github.com/8cib/fontes/blob/main/SFProDisplay-Medium.otf"
+  "spec": 1,
+  "name": "SF Pro Display",
+  "main": {
+    "ggsans-Medium": "https://raw.githubusercontent.com/8cib/fontes/main/SF-Pro-Display-Medium.otf"
+  }
 }
